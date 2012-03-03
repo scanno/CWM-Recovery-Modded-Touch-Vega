@@ -1,0 +1,4 @@
+/dev/system_bus_freq    		0660    system  system
+/sys/class/leds/red/brightness 		0660 	system 	system
+/sys/class/leds/green/brightness	0660 	system 	system 
+/sys/class/leds/blue/brightness 	0660 	system 	system 
